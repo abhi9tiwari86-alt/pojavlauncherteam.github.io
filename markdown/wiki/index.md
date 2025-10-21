@@ -1,5 +1,4 @@
-
-# Welcome to the PojavLauncher Wiki!
+welcome to anant page here you can install pojav launcher
 ____
 * Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
 * Got a question? Check out our [FAQ](./faq/INSTALLATIONOFMODSRPWORLDS)!
